@@ -1,0 +1,7 @@
+all:graficas
+
+graficas: constantes.ipynb
+	ipython notebook constantes.ipynb
+	
+clear
+	rm -f *.png *.pdf *.jpg
