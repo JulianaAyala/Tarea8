@@ -1,3 +1,5 @@
+
+
 all:graficas
 
 graficas: constantes.ipynb
@@ -5,4 +7,7 @@ graficas: constantes.ipynb
 	
 clear
 	rm -f *.png *.pdf *.jpg
+
+
+
 
