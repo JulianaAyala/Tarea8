@@ -5,3 +5,4 @@ graficas: constantes.ipynb
 	
 clear
 	rm -f *.png *.pdf *.jpg
+
